@@ -5,4 +5,5 @@
     <color name="colorAccent">#D81B60</color>
     <color name="rojo">#ff0000</color>
     <color name="azul">#9999ff</color>
+    <color name="fondoBotones">#14ae09</color>
 </resources>
